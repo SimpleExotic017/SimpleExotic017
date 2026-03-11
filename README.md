@@ -2,7 +2,7 @@
 <h3 align="center">A passionate BackEnd developer from Belgium</h3>
 
 - 🔭 I’m currently working on [HiCore](https://github.com/SimpleExotic017/HiCore)
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript** and **Python**
 - 💬 Ask me about **My Java and C# Projects**
 
 <h3 align="left">Languages and Tools:</h3>
